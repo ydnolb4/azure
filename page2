@@ -1,1 +1,15 @@
-
+<html>
+<head>
+<title>
+Test Azure App
+</title>
+</head>
+<body>
+<h1>
+Page 2
+</h1>
+<p>
+Hyperlinks: <a href="index.html">Home</a>
+</p>
+</body>
+</html>
