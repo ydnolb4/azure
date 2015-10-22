@@ -57,7 +57,7 @@
 
 .jumboM3 p {
   font-size: 20px;
-  color: #fff;
+  color: #000;
 }
 
 .jumboJeep {
@@ -70,7 +70,7 @@
 
 .jumboJeep .container {
   position: relative;
-  top:100px;
+  top:50px;
 }
 
 .jumboJeep h1 {
