@@ -135,6 +135,31 @@
   color: #fff;
 }
 
+.jumboTech {
+  background-image:url('http://desktopbackgroundshq.com/backgrounds/keyboard-computer-computer-background-computer-keyboard-25778.jpg');
+  height: 650px;
+  background-repeat: no-repeat;
+  background-size: 65%;
+  background-position: center;
+}
+
+.jumboTech .container {
+  position: relative;
+  top:100px;
+}
+
+.jumboTech h1 {
+  color: #fff;
+  font-size: 48px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+
+.jumboTech p {
+  font-size: 20px;
+  color: #fff;
+}
+
 .learn-more {
   background-color: #f7f7f7;
 }
