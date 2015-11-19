@@ -185,6 +185,8 @@
 .jumboCars p {
   font-size: 20px;
   color: #fff;
+  position: relative;
+  top: 320px;
 }
 
 .learn-more {
