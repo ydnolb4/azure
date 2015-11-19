@@ -178,7 +178,8 @@
   font-size: 48px;  
   font-family: 'Shift', sans-serif;
   font-weight: bold;
-  position: bottom;
+  position: relative;
+  top: 500px;
 }
 
 .jumboCars p {
