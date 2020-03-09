@@ -227,28 +227,3 @@
     font-size: 15px;
     margin-bottom: 13px;
 }
-
-.jumboSharefile {
-  background-image:url('https://static1.squarespace.com/static/555b82d3e4b0e2f61a53d48c/t/555c9f72e4b0078d0fecef13/1432133498701/raleigh_skyline.jpg?format=2500w');
-  height: 500px;
-  background-repeat: no-repeat;
-  background-size: 65%;
-  background-position: center;
-}
-
-.jumboSharefile .container {
-  position: relative;
-  top:100px;
-}
-
-.jumboSharefile h1 {
-  color: #fff;
-  font-size: 48px;  
-  font-family: 'Shift', sans-serif;
-  font-weight: bold;
-}
-
-.jumboSharefile p {
-  font-size: 20px;
-  color: #fff;
-}
